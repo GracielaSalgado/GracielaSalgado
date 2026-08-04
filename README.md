@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Typing animation layered directly on top (same pink background, no gap) -->
 <a href="https://github.com/gracielaflores">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&pause=1000&color=E0E0C0&background=F0C0D0&center=true&vCenter=true&width=1000&height=180&lines=Hey+there!+I'm+Graciela;Software+Engineer+Wannabe;Graphic+Designer" alt="Typing SVG" style="margin-top:-180px;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&pause=1000&color=70A050&background=F0C0D0&center=true&vCenter=true&width=1000&height=180&lines=Hey+there!+I'm+Graciela;Software+Engineer+Wannabe;Graphic+Designer" alt="Typing SVG" style="margin-top:-180px;"/>
 </a>
 </div>
 
@@ -34,13 +34,13 @@ I'm a Computer Science & Design Studies student at **DePauw University** (Class 
   <img src="https://img.shields.io/badge/HTML5-70A050?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-F0C0D0?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-E0E0C0?style=for-the-badge&logo=javascript&logoColor=333333"/>
-  <img src="https://img.shields.io/badge/React-B0D090?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-B0D090?style=for-the-badge&logo=react&logoColor=333333"/>
   <img src="https://img.shields.io/badge/Python-F0C0D0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-E0E0C0?style=for-the-badge&logo=openjdk&logoColor=333333"/>
   <img src="https://img.shields.io/badge/C++-70A050?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F0C0D0?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-E0E0C0?style=for-the-badge&logo=git&logoColor=333333"/>
-  <img src="https://img.shields.io/badge/Linux-B0D090?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-B0D090?style=for-the-badge&logo=linux&logoColor=333333"/>
 </p>
 
 <br>
