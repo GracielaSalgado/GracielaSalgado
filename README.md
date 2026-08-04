@@ -46,10 +46,12 @@ I'm a Computer Science & Design Studies student at **DePauw University** (Class 
 <br>
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gracielasalgado&show_icons=true&hide_border=true&title_color=E1666A&icon_color=A7A376&text_color=333333&bg_color=FFF2CB" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gracielasalgado&hide_border=true&background=FFF2CB&ring=E1666A&fire=E1666A&currStreakLabel=A7A376" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=GracielaSalgado&show_icons=true&hide_border=true&title_color=F0C0D0&icon_color=70A050&text_color=333333&bg_color=E0E0C0" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GracielaSalgado&theme=matrix&no-frame=true&row=2&column=3&margin-w=8" width="48%"/>
 </p>
+
 <br>
 
 ## 📷 Beyond Code
