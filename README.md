@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Typing animation layered directly on top (same pink background, no gap) -->
-<a href="https://github.com/gracielaflores">
+<a href="https://github.com/GracielaSalgado">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&pause=1000&color=70A050&background=F0C0D0&center=true&vCenter=true&width=1000&height=180&lines=Hey+there!+I'm+Graciela;Software+Engineer+Wannabe;Graphic+Designer" alt="Typing SVG" style="margin-top:-180px;"/>
 </a>
 </div>
@@ -48,8 +48,8 @@ I'm a Computer Science & Design Studies student at **DePauw University** (Class 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gracielasalgado&show_icons=true&hide_border=true&title_color=F0C0D0&icon_color=70A050&text_color=333333&bg_color=E0E0C0" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gracielasalgado&hide_border=true&background=E0E0C0&ring=F0C0D0&fire=F0C0D0&currStreakLabel=70A050" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GracielaSalgado&show_icons=true&hide_border=true&title_color=F0C0D0&icon_color=70A050&text_color=333333&bg_color=E0E0C0" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GracielaSalgado&hide_border=true&background=E0E0C0&ring=F0C0D0&fire=F0C0D0&currStreakLabel=70A050" width="48%"/>
 </p>
 
 <br>
